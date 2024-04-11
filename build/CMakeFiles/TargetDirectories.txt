@@ -1,0 +1,3 @@
+/home/weiyi/workspace/learning/bspline/build/CMakeFiles/rebuild_cache.dir
+/home/weiyi/workspace/learning/bspline/build/CMakeFiles/edit_cache.dir
+/home/weiyi/workspace/learning/bspline/build/CMakeFiles/BsplineApp.dir

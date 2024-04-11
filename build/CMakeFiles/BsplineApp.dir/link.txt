@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/BsplineApp.dir/src/main.cc.o CMakeFiles/BsplineApp.dir/src/BSpline.cc.o  -o BsplineApp  /usr/lib/x86_64-linux-gnu/libpython3.8.so 
